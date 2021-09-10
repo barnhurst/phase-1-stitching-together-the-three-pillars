@@ -1,0 +1,36 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 1,
+    "passes": 1,
+    "pending": 0,
+    "failures": 0,
+    "start": "2021-09-10T06:33:33.178Z",
+    "end": "2021-09-10T06:33:33.430Z",
+    "duration": 252
+  },
+  "tests": [
+    {
+      "title": "exists",
+      "fullTitle": "index.js exists",
+      "file": "/Users/christopherbarnhurst/Development/code/phase-1-stitching-together-the-three-pillars/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "exists",
+      "fullTitle": "index.js exists",
+      "file": "/Users/christopherbarnhurst/Development/code/phase-1-stitching-together-the-three-pillars/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
